@@ -21,6 +21,6 @@ tratado era Responsividade.
   
   ### Versão Mobile
   
-<img src="img/Mundo Gelado pronto mobile.png">
+<img style="margin: 0 auto;" src="img/Mundo Gelado pronto mobile.png">
 
 Para acessar clique <a target="_blank" href="https://raqcalazans.github.io/MundoGelado/">aqui</a>
