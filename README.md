@@ -15,7 +15,12 @@ tratado era Responsividade.
 - CSS
 
 ## Veja abaixo como o site ficou 
+  ### Versão Desktop
 
 <img src="img/Mundo Gelado pronto.png">
+  
+  ### Versão Mobile
+  
+<img src="img/Mundo Gelado pronto mobile.png">
 
 Para acessar clique <a target="_blank" href="https://raqcalazans.github.io/MundoGelado/">aqui</a>
