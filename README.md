@@ -8,5 +8,14 @@
 destinos de clima muito frio. Para fazê-lo eu já recebi o arquivo HTML pronto e fiz o CSS do zero com a ajuda das colegas e da professora da semana 
 <a href="https://github.com/barbara-aguilar">Bárbara Aguilar</a>.
 Foi o exercício da segunda semana do bootcamp online de front-end da <a href="https://reprograma.com.br/">{reprograma}</a> na qual o tema
-tratado era responsividade.<br><br>Para ver o site clique <a target="_blank" href="https://raqcalazans.github.io/MundoGelado/">aqui</a>.</p>
+tratado era responsividade.<br><br>
 
+## Tecnologias utilizadas
+- HTML
+- CSS
+
+## Veja abaixo como o site ficou 
+
+<img src="img/Mundo Gelado pronto.png">
+
+Para acessar clique <a target="_blank" href="https://raqcalazans.github.io/MundoGelado/">aqui</a>
