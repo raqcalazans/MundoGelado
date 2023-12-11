@@ -1,4 +1,4 @@
-# :snowflake: Mundo Gelado :snowflake:
+# Mundo Gelado :snowflake:
 
 > Status do projeto: Concluído :heavy_check_mark:
 
